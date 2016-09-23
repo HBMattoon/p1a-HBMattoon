@@ -1,8 +1,12 @@
-Name:
+Name:Henry Mattoon
 
-Compilation and Run Successful:
+Compilation and Run Successful: Compilation and run was successful, the sample
+program with the input bar in the center appeared and I could input integers into it
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Both the unit test and the main activity test passed and return exit code 0
+
+the only thing of concern that I ran into was a message i got after trying to import the project from git
+that read something like "csc413f16p1a module not imported from gradle" and then it removed it from the ide.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
